@@ -11,5 +11,9 @@ public class Calculator{
     System.out.println("We are adding 12 from 50");
     System.out.println("The difference between 12 and 50 is: " + s+"\n");
     
+     int m=variable2*variable1;
+    System.out.println("We are multiplying 12 from 50");
+    System.out.println("The multiplication of  12 and 50 is: " + m+"\n");
+    
   }
 }
