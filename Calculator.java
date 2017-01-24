@@ -14,8 +14,8 @@ public class Calculator{
      int m=variable2*variable1;
     System.out.println("We are multiplying 12 from 50");
     System.out.println("The multiplication of  12 and 50 is: " + m+"\n");
-	
-	//Implementing the division functionality
+   
+    //Implementing the division functionality
 	int m=variable2/variable1;
     System.out.println("Dividing  50 by 12");
     System.out.println("The division of  50 by 12 is: " + m);
